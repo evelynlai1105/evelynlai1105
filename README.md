@@ -60,10 +60,10 @@
 
 ---
 
+
 ## Featured Projects
 
 ### 🚶 SmartWalk@Taipei
-
 AI智慧健走推薦平台
 
 - Python Flask API
@@ -71,8 +71,12 @@ AI智慧健走推薦平台
 - OpenAI API
 - Google Maps API
 
-### 👨‍💼 Employee Attrition Prediction
+🔗 Repository:
+https://github.com/evelynlai1105/SmartWalk-Taipei
 
+---
+
+### 👥 Employee Attrition Prediction
 員工離職預測模型
 
 - Random Forest
@@ -80,39 +84,32 @@ AI智慧健走推薦平台
 - SVM
 - KNN
 
-### ☀️ Solar Energy Prediction
+🔗 Repository:
+https://github.com/evelynlai1105/Employee-Attrition-Prediction
 
-太陽能能源效率與發電量預測
+---
+
+### ☀️ Solar Energy Prediction
+太陽能發電效率分析
 
 - Linear Regression
 - Random Forest
 - XGBoost
 - LightGBM
 
-### 📈 Australian PV Forecast
+🔗 Repository:
+https://github.com/evelynlai1105/Solar-Energy-Analysis
 
+---
+
+### 📈 Australian PV Forecast
 澳洲屋頂太陽能發電量預測
 
 - ARIMA
 - Time Series Analysis
 
-### ⚾ MLB Data Analytics
-
-棒球數據分析
-
-- PCA
-- Cluster Analysis
-- Regression
-
----
-
-## Certifications
-
-- Microsoft Azure Fundamentals (AZ-900)
-- iPAS 巨量資料分析師
-- Business Data Application Engineer
-- ERP企業資源規劃基礎檢定
-
+🔗 Repository:
+https://github.com/evelynlai1105/Australian-PV-Forecast
 ---
 
 ## Contact
