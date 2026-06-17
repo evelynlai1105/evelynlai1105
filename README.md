@@ -117,6 +117,6 @@ AI智慧健走推薦平台
 
 ## Contact
 
-📧 Email：你的Email
+📧 Email：yalin1105@gmail.com
 
 💼 GitHub：github.com/evelynlai1105
